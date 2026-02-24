@@ -1,0 +1,5 @@
+__pycache__/
+.pytext_cache/
+*.pyc
+.env
+venv/

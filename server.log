@@ -1,0 +1,25 @@
+2026-02-24 00:20:57,622 - db_helper - INFO - fetch_expense_for_date called with 2024-08-01
+2026-02-24 00:21:04,751 - db_helper - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-08-05
+2026-02-24 08:43:00,192 - db_helper - INFO - fetch_expense_for_date called with 2024-08-01
+2026-02-24 08:43:14,539 - db_helper - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-12-31
+2026-02-24 08:45:27,643 - db_helper - INFO - fetch_expense_for_date called with 2024-08-01
+2026-02-24 08:47:55,349 - db_helper - INFO - fetch_expense_for_date called with 2024-08-01
+2026-02-24 08:49:50,814 - db_helper - INFO - fetch_expense_for_date called with 2024-08-01
+2026-02-24 08:49:56,289 - db_helper - INFO - fetch_expense_by_month called
+2026-02-24 17:18:28,273 - db_helper - INFO - fetch_expense_for_date called with 2024-08-09
+2026-02-24 17:18:41,865 - db_helper - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-12-31
+2026-02-24 17:18:59,535 - db_helper - INFO - fetch_expense_by_month called
+2026-02-24 17:21:13,374 - db_helper - INFO - fetch_expense_by_month called
+2026-02-24 17:21:30,374 - db_helper - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-12-31
+2026-02-24 17:21:52,915 - db_helper - INFO - delete_expense_for_date called with 2024-08-09
+2026-02-24 17:21:52,956 - db_helper - INFO - insert_expense called with date : 2024-08-09, amount : 1200.0,category : Food,notes : kanha restro
+2026-02-24 17:22:18,607 - db_helper - INFO - fetch_expense_for_date called with 2024-09-12
+2026-02-24 17:22:25,121 - db_helper - INFO - fetch_expense_for_date called with 2024-09-13
+2026-02-24 17:26:22,784 - db_helper - INFO - delete_expense_for_date called with 2024-09-13
+2026-02-24 17:26:22,799 - db_helper - INFO - insert_expense called with date : 2024-09-13, amount : 1300.0,category : Shopping,notes : Shirt from westside 
+2026-02-24 17:26:22,826 - db_helper - INFO - insert_expense called with date : 2024-09-13, amount : 600.0,category : Entertainment,notes : watched movie
+2026-02-24 17:26:22,852 - db_helper - INFO - insert_expense called with date : 2024-09-13, amount : 10000.0,category : Rent,notes : paid to landlord
+2026-02-24 17:26:22,875 - db_helper - INFO - insert_expense called with date : 2024-09-13, amount : 650.0,category : Food,notes : protein burger
+2026-02-24 17:26:22,898 - db_helper - INFO - insert_expense called with date : 2024-09-13, amount : 250.0,category : Other,notes : Petrol for zx10r
+2026-02-24 17:26:29,277 - db_helper - INFO - fetch_expense_summary called with start : 2024-08-01, end : 2024-12-31
+2026-02-24 17:26:41,947 - db_helper - INFO - fetch_expense_by_month called
